@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Your Full Name
-- **GitHub:** [@Markchege](https://github.com/Markchege)
+- **GitHub:** [@Markchege10-ux](https://github.com/Markchege)
 - **Date:** April 04, 2026
 
 ## Project Description
