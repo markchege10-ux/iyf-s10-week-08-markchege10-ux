@@ -1,12 +1,12 @@
 # Week {08}: {React Fundamentals}
 
 ## Author
-- **Name:** Your Full Name
-- **GitHub:** [@Markchege10-ux](https://github.com/Markchege)
+- **Name:** Mark Muraya
+- **GitHub:** [@Markchege10-ux](https://github.com/Markchege10-ux)
 - **Date:** April 04, 2026
 
 ## Project Description
-Brief description of what you built and why.
+I built a modern user interfaces with React.
 
 ## Technologies Used
 - HTML5
@@ -29,7 +29,8 @@ Brief description of what you built and why.
 I learnt react fundamentals
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+I encountered challenges like at first I didnt know how to 
+start with the vite project and importing and exporting
 
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
